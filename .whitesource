@@ -12,6 +12,7 @@
    "displayMode": "diff"
   },
   "issueSettings": {
-    "minSeverityLevel": "NONE"
+    "minSeverityLevel": "NONE",
+    "displayLicenseViolations": true
   }
 }
