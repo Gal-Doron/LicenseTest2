@@ -6,13 +6,13 @@
     "baseBranches": []
   },
   "checkRunSettings": {
-   "enableLicenseViolations": true,
+   "enableLicenseViolations": "true",
    "licenseCheckRunConclusionLevel": "failure",
-   "vulnerableCheckRunConclusionLevel": "failure",
+   "vulnerableCheckRunConclusionLevel": "none",
    "displayMode": "diff"
   },
   "issueSettings": {
     "minSeverityLevel": "NONE",
-    "displayLicenseViolations": true
+    "displayLicenseViolations": "true"
   }
 }
