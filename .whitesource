@@ -8,10 +8,11 @@
   },
   "checkRunSettings": {
    "licenseCheckRunConclusionLevel": "failure",
-   "vulnerableCheckRunConclusionLevel": "success",
+   "vulnerableCheckRunConclusionLevel": "failure",
    "displayMode": "diff"
   },
   "issueSettings": {
-    "minSeverityLevel": "NONE"
+    "minSeverityLevel": "NONE",
+    "displayLicenseViolations": true
   }
 }
